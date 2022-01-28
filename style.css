@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+    text-align: center;
+}
+.line{
+    width:80px;
+    height: 5px;
+    background-color: yellow;
+    margin:20px auto;
+}
+#apps{
+    background-color:red;
+}
+#games{
+    background-color: aqua;
+}
+#chatbot{
+    background-color: fuchsia;
+}
+img{
+    width:400px;
+    height:400px;
+    margin:40px;
+}
